@@ -16,7 +16,8 @@ Show all these details of trims in the page which is defined in `trim.csv` file.
 ## Client-side 
 We need a website where the user can search for car details of his desired filter selection.
 - We need a login page asking for username and password. 
-  - Redirect the users to `/cars` page after login and this page should have 3 dropdowns to show all the details of the filtered cars, and a button `Show Data` 
+- Redirect the users to `/cars` page after login:
+  - This page should have 3 dropdowns to show all the details of the filtered cars, and a button `Show Data` 
     - make 
     - model
     - trim 
