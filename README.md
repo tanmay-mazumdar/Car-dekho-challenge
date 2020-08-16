@@ -1,8 +1,12 @@
 # Car-dekho-challenge
 ## Requirement
 Back End: NodeJS
+
 Database: MongoDB
+
 Front End: React or Angular
+
+Realtime: GraphQL / Socket.io / redis etc
  
 ## Server-side
 - We've provided some .csv files, please use them to store some details into MongoDB.
