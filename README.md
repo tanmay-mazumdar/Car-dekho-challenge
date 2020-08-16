@@ -1,4 +1,7 @@
 # Car-dekho-challenge
+
+Please follow the instructions below very carefully.
+
 ## Requirement
 Back End: NodeJS
 
@@ -38,9 +41,16 @@ And so on…..
   - When admin user is adding a new car detail, then it should be **real-time (Preferably GraphQL, socket.io).** To do that, add a new detail in a browser and check in another browser without reloading the page whether you can see the newly added car details or not. 
 
 ## Deliverables:
-1. Checkout a branch of your name from the master branch. 
-2. Complete this challenge in that branch with proper commits. 
-3. Code should be very clean and understandable. 
-4. Project should be run error free. 
-5. Make a file where you tell us about the challenges you came across and how you solved it. 
-6. How much time taken to complete this challenge?
+
+Create a zip folder of your code and send it through email for further review.
+
+1. Code should be very clean and understandable. 
+2. Project should be run error free. 
+3. Make a file where you tell us about the challenges you came across and how you solved it. 
+4. How much time taken to complete this challenge?
+5. responsive frontend.
+6. proper authentication on the backend.
+7. secure backend
+8. realtime updates
+9. proper code convention and commenting.
+10. strong and robust logic
