@@ -5,7 +5,7 @@ Please follow the instructions below very carefully.
 ## Requirement
 Back End: NodeJS
 
-Database: MongoDB
+Database: MongoDB or Postgres or any other db to your liking.
 
 Front End: React or Angular
 
