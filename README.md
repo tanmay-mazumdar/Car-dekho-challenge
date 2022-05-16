@@ -1,4 +1,4 @@
-# Car-dekho-challenge
+# Used Car Listing coding challenge
 
 Please follow the instructions below very carefully.
 
